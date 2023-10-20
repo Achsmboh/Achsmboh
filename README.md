@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Achmad Maulana Achsan</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
-- 👨‍💻 All of my projects are available at [https://achmad-maulana-achsan.netlify.app/](https://achmad-maulana-achsan.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://final-project-prakerja.netlify.app/](https://final-project-prakerja.netlify.app/)
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **maulana.achsanxiipa1@gmail.com**
+- 📫 How to reach me **achmadmaulanaachsan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
